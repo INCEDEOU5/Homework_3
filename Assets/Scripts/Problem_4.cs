@@ -11,5 +11,8 @@ public class Problem_4 : MonoBehaviour
     */
     void Start()
     {
+        int[] numbers = new int[10] { 7, 21, 35, 49, 63, 77, 91, 105, 119, 133 };
+        int[] new_numbers = new int[5];
+        int[] new_new_numbers = new int[5] { 7, 35, 63, 91, 119 };
     }
 }

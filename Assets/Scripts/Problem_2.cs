@@ -12,5 +12,9 @@ public class Problem_2 : MonoBehaviour
     {
         int[] disorder = new int[3]{0,5,2};
         bool isInOrder;
+        for (int i = 0; i < disorder.Length; i++) ;
+        isInOrder = false;
+
+        
     }
 }

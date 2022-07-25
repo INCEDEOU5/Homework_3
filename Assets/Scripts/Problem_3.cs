@@ -17,6 +17,7 @@ public class Problem_3 : MonoBehaviour
     void Start()
     {
         string[] names = new string[6]{ "Clark", "Bruce", "Diana", "Barry", "Hal", "Arthur"};
-        List<string> indexedNames = new List<string>();
+        string[] new_name = new string[6] { "1. Clark", "2. Bruce", "3. Diana", "4. Barry", "5. Hal", "6. Arthur" };
+        print(new string[6]);
     }
 }
